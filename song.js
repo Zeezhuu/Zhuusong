@@ -1,5 +1,5 @@
 const lagu = [
-    ["Sticky" /*JUDUL*/,"Kiss Of Life"/*PENYANYI*/, "cover-album-sticky.jpg"/*COVER ALBUM*/, "54M"/*VIEWS*/, "994K"/*LIKES*/,"audio-sticky.mp3"/*AUDIO*/,"kissoflife_s2" /*INSTAGRAM*/,"4TEK9tlkcoxib4GxT3O4ky"/*SPOTIFY*/,"lajeQM00yfE"/*VID YT*/,"rgb(82, 195, 229)"/*RGB BACKGROUND COLOR*/],
+    ["Sticky" /*JUDUL*/,"Kiss Of Life"/*PENYANYI*/, "cover-album-sticky.jpg"/*COVER ALBUM*/, "54M"/*VIEWS*/, "994K"/*LIKES*/,"audio-sticky.mp3"/*AUDIO*/,"kissoflife_s2" /*INSTAGRAM*/,"4TEK9tlkcoxib4GxT3O4ky"/*SPOTIFY*/,"IajeQM00yfE"/*VID YT*/,"rgb(82, 195, 229)"/*RGB BACKGROUND COLOR*/],
     ["DREAM", "BABYMONSTER", "cover-album-dream.jpg", "78M", "1,6M", "audio-dream.mp3", "babymonster_ygofficial", "1SIocsqdEefUTE6XKGUiVS", "ynOtYmpZxak", "rgb(185, 30, 36)"],
     ["IWALY", "IZNA", "cover-album-IWALY.jpg", "993K", "11K", "audio-IWALY.mp3", "izna_offcl", "6EB5QC7lGAu7bSuWQ416d4", "o-HAuKf5pzY","rgb(168, 164, 114)"],
     ["4life", "VVUP", "cover-album-4life.jpg", "491K", "24K", "audio-4life.mp3", "vvup.official", "2zy0MxCWDb4XOziNuyEHtb", "A-Hr8aYSEx0", "rgb(179, 186, 194)"],
