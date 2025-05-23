@@ -1,0 +1,97 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    margin: 0;
+    background-color: rgb(248, 248, 2548);
+}
+#container{
+    display: flex;
+    background-color: rgb(248, 248, 248);
+    border-radius: 17px;
+    width: 100%;
+    /* flex-wrap: wrap;
+    justify-content: center; */
+    /* height: 100%;
+    align-content: center; */
+    justify-content: space-evenly;
+}
+.yey{
+    display: flex;
+    flex-direction: column;
+    /* flex-wrap: wrap; */
+    border: 2px solid black;
+    border-radius: 17px;
+    width: 325px;
+    margin: 25px;
+    padding: 3px;
+}
+
+#container div{
+    margin: 3px;
+}
+
+#container h1{
+    margin: 0;
+    color: white;
+}
+
+#container h2{
+    padding: 0;
+    padding-bottom: 0px;
+    margin-top: 0;
+    font-size: smaller;
+    color: white;
+}
+
+#container img{
+    width: 100%;
+    border-radius: 15px;
+}
+
+.play{
+    display: flex;
+    justify-content: center;
+    border: 1px solid white;
+    border-radius: 100px;
+    width: 11%;
+   
+}
+
+#bawah{
+    display: flex;  
+    justify-content: space-around; 
+    width: 100%; 
+}
+
+#ket{
+    width: 43px;
+}
+.play-button{
+    border: 2px solid white;
+    width: 123px;
+    height: 127px;
+    border-radius: 100%;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+}
+.play-butoon img{
+    width: 80%;
+    align-items: center;
+    align-content: center;
+}
+
+.logo-sosmed{
+    width: 43px;
+    margin: 5px;
+    justify-content: space-between;
+    cursor: pointer;
+}
+
+.pict{
+    margin-right: 10px;
+    justify-content: space-between;
+}
+
